@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_202_x86">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/commons-el.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/ecj-3.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/naming-factory.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/naming-factory-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/lib/naming-resources.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/common/classes"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/catalina-ant-jmx.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/catalina-cluster.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/catalina-optional.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/commons-modeler-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/servlets-default.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/servlets-invoker.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/servlets-webdav.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/tomcat-ajp.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/tomcat-apr.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/tomcat-http.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/Java/server/apache-tomcat-5.5.36/server/classes"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
